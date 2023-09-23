@@ -96,3 +96,42 @@ button {
     color: #fff;
     padding: 0 10rem;
 }
+
+.body-1 {
+    margin-bottom: 8rem;
+}
+
+.body-1 .header-text {
+    font-size: 36px;
+    font-weight: 800; /* extra-bold */
+    color: #1f2937;
+    text-align: center;
+    margin: 3rem 0;
+}
+
+.info {
+    height: auto;
+    width: 150px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+}
+
+.item-img {
+    border: 4px solid #3b82f6;
+    height: 150px;
+    width: 150px;
+    border-radius: 15px;
+}
+
+.body-1-container {
+    gap: 4rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.info .subtext {
+    color: #5c6571;
+}
