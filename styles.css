@@ -145,7 +145,7 @@ button {
 .quote-container {
     display: flex;
     flex-direction: column;
-    width: 820px;
+    max-width: 820px;
     margin: auto;
 }
 
